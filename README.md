@@ -15,7 +15,7 @@ https://cleany-service.onrender.com
 | ![8](https://github.com/Andrey-Ruch/Cleany/assets/73066767/04d87886-bdc7-4580-92ee-cf25aa7e81b8) |
 |:--:| 
 | ![7](https://github.com/Andrey-Ruch/Cleany/assets/73066767/d0285657-cf79-47e9-a56d-445641e52abd) |
-|:--:| 
+
 | ![6](https://github.com/Andrey-Ruch/Cleany/assets/73066767/8f6c709a-c9e1-46c6-93f4-5ef1a384514e) |
 |:--:| 
 | ![5](https://github.com/Andrey-Ruch/Cleany/assets/73066767/b42c732b-39da-4120-b0d9-b10827234721) |
